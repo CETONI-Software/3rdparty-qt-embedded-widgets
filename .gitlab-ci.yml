@@ -1,0 +1,10 @@
+# see /templates/build.gitlab-ci.yml for the definition of the '.build' template stage
+build:embedded_widgets:
+  extends: .build
+  variables:
+    QMAKE_PRO_FILE: 'src/embedded-widgets/embedded-widgets.pro'
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "push"'
+      changes:
+        - build/**/*
+        - src/embedded-widgets/**/*

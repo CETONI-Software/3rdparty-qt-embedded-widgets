@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>5waybutton/Dark/up_pressed.svg</file>
+        <file>5waybutton/Dark/background.svg</file>
+        <file>5waybutton/Dark/center.svg</file>
+        <file>5waybutton/Dark/center_hover.svg</file>
+        <file>5waybutton/Dark/center_pressed.svg</file>
+        <file>5waybutton/Dark/down.svg</file>
+        <file>5waybutton/Dark/down_hover.svg</file>
+        <file>5waybutton/Dark/down_pressed.svg</file>
+        <file>5waybutton/Dark/left.svg</file>
+        <file>5waybutton/Dark/left_hover.svg</file>
+        <file>5waybutton/Dark/left_pressed.svg</file>
+        <file>5waybutton/Dark/right.svg</file>
+        <file>5waybutton/Dark/right_hover.svg</file>
+        <file>5waybutton/Dark/right_pressed.svg</file>
+        <file>5waybutton/Dark/up.svg</file>
+        <file>5waybutton/Dark/up_hover.svg</file>
+    </qresource>
+</RCC>

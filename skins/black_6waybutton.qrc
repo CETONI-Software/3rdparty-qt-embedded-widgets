@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>6waybutton/Black/up_pressed.svg</file>
+        <file>6waybutton/Black/background.svg</file>
+        <file>6waybutton/Black/center.svg</file>
+        <file>6waybutton/Black/center_down.svg</file>
+        <file>6waybutton/Black/center_down_hover.svg</file>
+        <file>6waybutton/Black/center_down_pressed.svg</file>
+        <file>6waybutton/Black/center_hover.svg</file>
+        <file>6waybutton/Black/center_pressed.svg</file>
+        <file>6waybutton/Black/center_up.svg</file>
+        <file>6waybutton/Black/center_up_hover.svg</file>
+        <file>6waybutton/Black/center_up_pressed.svg</file>
+        <file>6waybutton/Black/down.svg</file>
+        <file>6waybutton/Black/down_hover.svg</file>
+        <file>6waybutton/Black/down_pressed.svg</file>
+        <file>6waybutton/Black/left.svg</file>
+        <file>6waybutton/Black/left_hover.svg</file>
+        <file>6waybutton/Black/left_pressed.svg</file>
+        <file>6waybutton/Black/right.svg</file>
+        <file>6waybutton/Black/right_hover.svg</file>
+        <file>6waybutton/Black/right_pressed.svg</file>
+        <file>6waybutton/Black/up.svg</file>
+        <file>6waybutton/Black/up_hover.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>svgspinbutton/Black/up.svg</file>
+        <file>svgspinbutton/Black/down.svg</file>
+        <file>svgspinbutton/Black/up_hover.svg</file>
+        <file>svgspinbutton/Black/down_hover.svg</file>
+        <file>svgspinbutton/Black/up_pressed.svg</file>
+        <file>svgspinbutton/Black/down_pressed.svg</file>
+    </qresource>
+</RCC>
